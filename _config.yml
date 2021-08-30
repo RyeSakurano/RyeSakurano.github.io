@@ -86,9 +86,15 @@ content:
       #   sub_title: M.S. of Computer Science and Technology
       #   description: |
 
-  - title: Publications
+  - title: Research
     layout: text
     content: |
+      I'm currently advised by [Dr. Guojie Song]().
+
+      My research interests include graph machine learning, social computing & AI+psychology.
+
+      **Publications:**
+
       - Guojie Song, Yizhou Zhang, **Lingjun Xu** and Haibing Lu. Domain Adaptive Network Embedding. IEEE Transactions on Big Data, 2020. ([link](https://ieeexplore.ieee.org/document/9241052))
       - Qingqing Long, **Lingjun Xu**(Equal Contribution), Zheng Fang, and Guojie Song. HGK-GNN: Heterogeneous Graph Kernel based Graph Neural Networks. KDD, 2021. ([link](https://doi.org/10.1145/3447548.3467429))
 
@@ -118,7 +124,7 @@ content:
         title: Tencent Map, Beijing
       #   link: boringcompany.com
       #   # link_text: boringcompany.com
-        sub_title: Android Developer Intern
+        sub_title: Android Software Development Engineer Intern
         caption: 2020.07 - 2020.10
       #   quote: >
       #     Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
