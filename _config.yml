@@ -155,16 +155,16 @@ content:
         description: |
           - **Music:** piano & vocal music [see [PKUEECS129](https://eecs129.site)]
           - **Sports:** swimming & tennis
-          - Writing Stories [see Scarlet Rook(绯色的乌鸦) [blog](https://ScarletRook.github.io) or [wechat platform](https://ScarletRook.github.io)]
-          - Studying Languages
-          - History & Geography
+          - **Writing Stories** [see Scarlet Rook(绯色的乌鸦) [blog](https://ScarletRook.github.io) or [wechat platform](https://ScarletRook.github.io)]
+          - **Studying Languages**
+          - **History & Geography**
           - **Favorite Singers:** Shen Zhou, Yunlong Zheng, Ayanga, Mai Kuraki
           - **Favorite Tennis Players:** Roger Federer & Denis Shapovalov
           - **Favorite Manga:** Detective Conan
 
 # Footer
-# footer_show_references: false
-# references_title: References on request (Override references text)
+footer_show_references: true
+references_title: maintained by RyeSakurano
 
 # Build settings
 remote_theme: sproogen/resume-theme
