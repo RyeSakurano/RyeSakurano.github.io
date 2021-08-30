@@ -132,10 +132,10 @@ content:
     layout: list
     content: # this will include new lines to allow paragraphs
       - title: Alias
-        content: |
+        description: |
           Sherria, Irena, Reikun, Ayako(綾子)
       - title: Hobbies
-        content: |
+        description: |
           - Music: piano, chorus, guitar
           - Sports: swimming & tennis
           - Writing [see Scarlet Rook(绯色的乌鸦) blog:[link](https://ScarletRook.github.io) wechat platform: [link](https://ScarletRook.github.io) ]
