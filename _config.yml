@@ -86,8 +86,8 @@ content:
   - title: Publications
     layout: list
     content: 
-      - layout: test
-      content: |
+      - layout: text
+        content: |
         Guojie Song, Yizhou Zhang, **Lingjun Xu** and Haibing Lu. Domain Adaptive Network Embedding. In IEEE Transactions on Big Data, 2020. url: 
 
   - title: Projects # Title for the section
