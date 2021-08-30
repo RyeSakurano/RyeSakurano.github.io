@@ -58,7 +58,7 @@ about_content: | # this will include new lines to allow paragraphs
 
 
 content:
-    - title: Education # Title for the section
+  - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
@@ -134,7 +134,7 @@ content:
       ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 # Footer
-footer_show_references: true
+footer_show_references: false
 # references_title: References on request (Override references text)
 
 # Build settings
