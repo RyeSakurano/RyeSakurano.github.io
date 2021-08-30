@@ -8,8 +8,8 @@ version: 2
 # Personal info
 name: Lingjun Xu (许灵筠)
 title: Graduate Student, EECS, Peking University
-email: "xlj_rk[at]pku.edu.cn /
- lingjunxu.rk[at]outlook.com"
+email: xlj_rk[at]pku.edu.cn
+email: lingjunxu.rk[at]outlook.com
 # website: www.github.com/RyeSakurano
 
 # Dark Mode (true/false/never)
@@ -87,8 +87,9 @@ content:
     layout: list
     content: 
       - layout: text
+        link: https://pku.edu.cn
         content: |
-        Guojie Song, Yizhou Zhang, **Lingjun Xu** and Haibing Lu. Domain Adaptive Network Embedding. In IEEE Transactions on Big Data, 2020. url: 
+          Guojie Song, Yizhou Zhang, **Lingjun Xu** and Haibing Lu. Domain Adaptive Network Embedding. In IEEE Transactions on Big Data, 2020. url: 
 
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
