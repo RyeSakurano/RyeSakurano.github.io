@@ -7,9 +7,8 @@ version: 2
 
 # Personal info
 name: Lingjun Xu (许灵筠)
-title: Graduate Student, EECS, Peking University
-email: xlj_rk[at]pku.edu.cn, 
-       lingjunxu.rk[at]outlook.com
+# title: 
+email: xlj_rk[at]pku.edu.cn
 # website: www.github.com/RyeSakurano
 
 # Dark Mode (true/false/never)
@@ -53,6 +52,8 @@ additional_links:
 # about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   I'm currently a graduate student at Key Laboratory of Machine Perception, Ministry of Education, School of EECS, Peking University.
+
+  Please contact me via xlj_rk[at]pku.edu.cn or lingjunxu.rk[at]outlook.com.
 #  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
 
 
@@ -88,7 +89,7 @@ content:
     content: |
       I'm advised by [Dr. Guojie Song](https://www.gjsong-pku.cn/).
 
-      My research interests include graph machine learning, social computing and AI+psychology.
+      My research interests include graph machine learning and social computing.
 
 
 
@@ -147,7 +148,7 @@ content:
   - title: A Little More About Me
     layout: list
     content: # this will include new lines to allow paragraphs
-      - title: Alias
+      - title: Assumed Names
         description: |
           Sherria, Irena, Reikun, Ayako(綾子)
       - title: Hobbies
