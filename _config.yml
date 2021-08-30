@@ -8,8 +8,8 @@ version: 2
 # Personal info
 name: Lingjun Xu (许灵筠)
 title: Graduate Student, EECS, Peking University
-email: xlj_rk[at]pku.edu.cn
-email: lingjunxu.rk[at]outlook.com
+email: xlj_rk[at]pku.edu.cn, 
+       lingjunxu.rk[at]outlook.com
 # website: www.github.com/RyeSakurano
 
 # Dark Mode (true/false/never)
@@ -32,10 +32,13 @@ github_username:  RyeSakurano
 
 # Additional icon links
 additional_links:
-- title: ScarletRook
+- title: Scarlet Rook (blog)
   icon: fas fa-book-open
   url: https://ScarletRook.github.io
-- title: EECS129
+- title: Scarlet Rook (Wechat Platform)
+  icon: fas fa-comment-dots
+  url: https://ScarletRook.github.io
+- title: PKU EECS 129
   icon: fas fa-headphones
   url: https://eecs129.site
 # - title: another link
@@ -126,16 +129,16 @@ content:
 
 
   - title: A Little More About Me
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
-
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+    layout: list
+    content: # this will include new lines to allow paragraphs
+      - layout: text
+        title: Alias
+        content: |
+          Sherria, Reikun, Ayako(綾子)
+      - layout: text
+        title: Hobbies
+        content: |
+          - music
 
 # Footer
 footer_show_references: false
