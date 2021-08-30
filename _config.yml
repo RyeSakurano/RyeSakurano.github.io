@@ -35,9 +35,6 @@ additional_links:
 - title: Scarlet Rook (blog)
   icon: fas fa-book-open
   url: https://ScarletRook.github.io
-- title: Scarlet Rook (Wechat Platform)
-  icon: fas fa-comment-dots
-  url: https://ScarletRook.github.io
 - title: PKU EECS 129
   icon: fas fa-headphones
   url: https://eecs129.site
@@ -93,10 +90,12 @@ content:
 
       My research interests include graph machine learning, social computing and AI+psychology.
 
+
+
       <mark>Publications</mark>
 
-      - Guojie Song, Yizhou Zhang, **Lingjun Xu** and Haibing Lu. Domain Adaptive Network Embedding. IEEE Transactions on Big Data, 2020. ([link](https://ieeexplore.ieee.org/document/9241052))
-      - Qingqing Long, **Lingjun Xu**(Equal Contribution), Zheng Fang, and Guojie Song. HGK-GNN: Heterogeneous Graph Kernel based Graph Neural Networks. KDD, 2021. ([link](https://doi.org/10.1145/3447548.3467429))
+      - Guojie Song, Yizhou Zhang, **Lingjun Xu** and Haibing Lu. Domain Adaptive Network Embedding. IEEE Transactions on Big Data, 2020. [[link](https://ieeexplore.ieee.org/document/9241052)]
+      - Qingqing Long, **Lingjun Xu**(Equal Contribution), Zheng Fang, and Guojie Song. HGK-GNN: Heterogeneous Graph Kernel based Graph Neural Networks. KDD, 2021. [[link](https://doi.org/10.1145/3447548.3467429)]
 
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
@@ -153,9 +152,9 @@ content:
           Sherria, Irena, Reikun, Ayako(綾子)
       - title: Hobbies
         description: |
-          - **Music:** piano & vocal music [see [PKUEECS129](https://eecs129.site)]
-          - **Sports:** swimming & tennis
-          - **Writing Stories** [see Scarlet Rook(绯色的乌鸦) [blog](https://ScarletRook.github.io) or [wechat platform](https://ScarletRook.github.io)]
+          - **Music:** Piano & Vocal music [see [PKUEECS129](https://eecs129.site)]
+          - **Sports:** Swimming & Tennis
+          - **Writing Stories** [see Scarlet Rook(绯色的乌鸦) [blog](https://ScarletRook.github.io)]
           - **Studying Languages**
           - **History & Geography**
           - **Favorite Singers:** Shen Zhou, Yunlong Zheng, Ayanga, Mai Kuraki
@@ -163,8 +162,7 @@ content:
           - **Favorite Manga:** Detective Conan
 
 # Footer
-footer_show_references: true
-references_title: maintained by RyeSakurano
+footer_text: maintained by RyeSakurano
 
 # Build settings
 remote_theme: sproogen/resume-theme
