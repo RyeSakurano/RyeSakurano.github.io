@@ -91,7 +91,7 @@ content:
     content: |
       I'm advised by [Dr. Guojie Song](https://www.gjsong-pku.cn/).
 
-      My research interests include graph machine learning, social computing & AI+psychology.
+      My research interests include graph machine learning, social computing and AI+psychology.
 
       <mark>Publications</mark>
 
@@ -136,14 +136,14 @@ content:
     content:
       - title: Programming
         description: |
-          - Proficient: Python(PyTorch), C/C++
-          - Intermediate: Java
-          - Basic: HTML, CSS, Javascript, Android
+          - **Proficient:** Python(PyTorch), C/C++
+          - **Intermediate:** Java
+          - **Basic:** HTML, CSS, Javascript, Android
       - title: Languages
         description: |
-          - Native: Cantonese & Mandarin
-          - Fluent: English
-          - Basic: Japanese, Korean, Italian
+          - **Native:** Cantonese & Mandarin
+          - **Fluent:** English
+          - **Basic:** Japanese, Korean, Italian
 
   - title: A Little More About Me
     layout: list
@@ -153,17 +153,17 @@ content:
           Sherria, Irena, Reikun, Ayako(綾子)
       - title: Hobbies
         description: |
-          - <mark>Music</mark>: piano & vocal music [see [PKUEECS129](https://eecs129.site)]
-          - <mark>Sports</mark>: swimming & tennis
-          - <mark>Writing Stories</mark> [see Scarlet Rook(绯色的乌鸦) [blog](https://ScarletRook.github.io) or [wechat platform](https://ScarletRook.github.io)]
-          - <mark>Studying Languages</mark>
-          - <mark>History & Geography</mark>
-          - <mark>Favorite Singers</mark>: Shen Zhou, Yunlong Zheng, Ayanga, Mai Kuraki
-          - <mark>Favorite Tennis Players</mark>: Roger Federer & Denis Shapovalov
-          - <mark>Favorite Manga</mark>: Detective Conan
+          - **Music:** piano & vocal music [see [PKUEECS129](https://eecs129.site)]
+          - **Sports:** swimming & tennis
+          - Writing Stories [see Scarlet Rook(绯色的乌鸦) [blog](https://ScarletRook.github.io) or [wechat platform](https://ScarletRook.github.io)]
+          - Studying Languages
+          - History & Geography
+          - **Favorite Singers:** Shen Zhou, Yunlong Zheng, Ayanga, Mai Kuraki
+          - **Favorite Tennis Players:** Roger Federer & Denis Shapovalov
+          - **Favorite Manga:** Detective Conan
 
 # Footer
-footer_show_references: false
+# footer_show_references: false
 # references_title: References on request (Override references text)
 
 # Build settings
