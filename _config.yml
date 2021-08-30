@@ -87,7 +87,7 @@ content:
       #   description: |
 
   - title: Publications
-    layout: list
+    layout: text
     content: 
       - Guojie Song, Yizhou Zhang, **Lingjun Xu** and Haibing Lu. Domain Adaptive Network Embedding. IEEE Transactions on Big Data, 2020. ([link](https://ieeexplore.ieee.org/document/9241052))
       - Qingqing Long, **Lingjun Xu**(Equal Contribution), Zheng Fang, and Guojie Song. 2021. HGK-GNN":" Heterogeneous Graph Kernel based Graph Neural Networks. KDD, 2021. ([link](https://doi.org/10.1145/3447548.3467429))
@@ -134,7 +134,7 @@ content:
           Sherria, Irena, Reikun, Ayako(綾子)
       - title: Hobbies
         description: |
-          - Music: piano, chorus, guitar
+          - Music: piano, chorus [see [PKUEECS129](http://eecs129.site)]
           - Sports: swimming & tennis
           - Writing [see Scarlet Rook(绯色的乌鸦) [blog](https://ScarletRook.github.io) or [wechat platform](https://ScarletRook.github.io)]
           - History & Geography
