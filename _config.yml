@@ -1,6 +1,6 @@
 # Site
 repository: ryesakurano/ryesakurano.github.io
-favicon: images/favicon.ico
+favicon: fas fa-cat
 
 # Content configuration version
 version: 2
@@ -8,7 +8,7 @@ version: 2
 # Personal info
 name: Lingjun Xu (许灵筠)
 title: Graduate Student, EECS, Peking University
-email: xlj_rk[at]pku.edu.cn || lingjunxu.rk[at]outlook.com
+email: xlj_rk[at]pku.edu.cn </br> lingjunxu.rk[at]outlook.com
 # website: www.github.com/RyeSakurano
 
 # Dark Mode (true/false/never)
@@ -32,10 +32,10 @@ github_username:  RyeSakurano
 # Additional icon links
 additional_links:
 - title: ScarletRook
-  icon: fas fa-globe
+  icon: fas fa-book-open
   url: https://ScarletRook.github.io
 - title: EECS129
-  icon: fas fa-globe
+  icon: fas fa-headphones
   url: https://eecs129.site
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
@@ -51,49 +51,24 @@ additional_links:
 # about_title: About Me
 # about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  I'm currently a graduate student at Key Laboratory of Machine Perception, Ministry of Education, EECS, Peking University.
+  I'm currently a graduate student at Key Laboratory of Machine Perception, Ministry of Education, School of EECS, Peking University.
 #  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
 
-content:
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
-        # link_text: Project Website
-        additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-        description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
 
-  - title: Experience # Title for the section
+
+
+content:
+    - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: The Boring Company
-        link: boringcompany.com
-        # link_text: boringcompany.com
-        sub_title: Senior Network System Administrator
-        caption: November 2017 - Present
-        quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
-        description: | # this will include new lines to allow paragraphs
-            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+        title: Guangzhou Zhixin High School
+        caption: 2014.09 - 2017.06
+        description: |
 
-  - title: Education # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
       - layout: left
         title: Peking University
-        caption: 2017 - 2021
+        caption: 2017.09 - 2021.07
         sub_title: B.S. of Data Science and Big Data Technology
         # quote: >
         #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
@@ -101,11 +76,50 @@ content:
 #   During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
 
 #   I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
-      - layout: left
-        title: Peking University
-        caption: 2021-now
-        sub_title: M.S. of Computer Science and Technology
-        description: |
+      # - layout: left
+      #   title: Peking University
+      #   caption: 2021.09 - now
+      #   sub_title: M.S. of Computer Science and Technology
+      #   description: |
+
+  - title: Publications
+    layout: list
+    content: |
+      - Guojie Song, Yizhou Zhang, **Lingjun Xu** and Haibing Lu. Domain Adaptive Network Embedding. In IEEE Transactions on Big Data, 2020. url: 
+
+  - title: Projects # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      # - layout: top-middle
+      #   title: Super awesome project
+      #   link: github.com/sproogen
+      #   # link_text: Project Website
+      #   additional_links:
+      #     - title:  sproogen/modern-resume-theme
+      #       icon: fab fa-github
+      #       url: github.com/sproogen/modern-resume-theme
+      #     # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+      #     #   icon: fab fa-github
+      #     #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+      #   quote: >
+      #     This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+      #   description: | # this will include new lines to allow paragraphs
+      #     I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+
+  - title: Intern Experience # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      # - layout: left
+      #   title: The Boring Company
+      #   link: boringcompany.com
+      #   # link_text: boringcompany.com
+      #   sub_title: Senior Network System Administrator
+      #   caption: November 2017 - Present
+      #   quote: >
+      #     Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+      #   description: | # this will include new lines to allow paragraphs
+      #       Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+
 
   - title: A Little More About Me
     layout: text
