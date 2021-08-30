@@ -6,10 +6,10 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: Xu, Lingjun (许灵筠)
+name: Lingjun Xu (许灵筠)
 title: Graduate Student in EECS, Peking University
-email: xlj_rk@pku.edu.cn
-website: www.github.com/RyeSakurano
+email: xlj_rk[at]pku[dot]edu[dot]cn / lingjunxu[dot]rk[at]outlook[dot]com
+# website: www.github.com/RyeSakurano
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -30,10 +30,10 @@ github_username:  RyeSakurano
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
-additional_links:
-- title: itsgoingto.be
-  icon: fas fa-globe
-  url: https://www.itsgoingto.be
+# additional_links:
+# - title: itsgoingto.be
+#   icon: fas fa-globe
+#   url: https://www.itsgoingto.be
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
