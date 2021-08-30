@@ -7,8 +7,3 @@
 #
 layout: default
 ---
-<style>
-.footer {
-  display: none;
-}
-</style>
