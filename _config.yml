@@ -89,10 +89,8 @@ content:
   - title: Publications
     layout: list
     content: 
-      - layout: text
-        link: https://pku.edu.cn
-        content: |
-          Guojie Song, Yizhou Zhang, **Lingjun Xu** and Haibing Lu. Domain Adaptive Network Embedding. In IEEE Transactions on Big Data, 2020. url: 
+      - Guojie Song, Yizhou Zhang, **Lingjun Xu** and Haibing Lu. Domain Adaptive Network Embedding. IEEE Transactions on Big Data, 2020. ([link](https://ieeexplore.ieee.org/document/9241052))
+      - Qingqing Long, **Lingjun Xu**(Equal Contribution), Zheng Fang, and Guojie Song. 2021. HGK-GNN":" Heterogeneous Graph Kernel based Graph Neural Networks. KDD, 2021. ([link](https://doi.org/10.1145/3447548.3467429))
 
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
@@ -121,7 +119,7 @@ content:
       #   link: boringcompany.com
       #   # link_text: boringcompany.com
         sub_title: Intern
-        caption: July 2020 - October 2020
+        caption: 2020.07 - 2020.10
       #   quote: >
       #     Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
@@ -138,7 +136,7 @@ content:
         description: |
           - Music: piano, chorus, guitar
           - Sports: swimming & tennis
-          - Writing [see Scarlet Rook(绯色的乌鸦) blog:[link](https://ScarletRook.github.io) wechat platform: [link](https://ScarletRook.github.io) ]
+          - Writing [see Scarlet Rook(绯色的乌鸦) [blog](https://ScarletRook.github.io) or [wechat platform](https://ScarletRook.github.io)]
           - History & Geography
           - Favorite Singers: Shen Zhou, Yunlong Zheng, Ayanga, Mai Kuraki
           - Favorite Tennis Players: Roger Federer & Denis Shapovalov
