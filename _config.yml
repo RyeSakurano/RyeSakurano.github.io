@@ -148,7 +148,7 @@ content:
     content: # this will include new lines to allow paragraphs
       - title: Assumed Names
         description: |
-          Sherria, Irena, Reikun, Ayako(綾子)
+          Reikun, Ayako(綾子), Sherria, Irena
       - title: Hobbies
         description: |
           - **Music:** Piano & Vocal music [see [PKUEECS129](https://eecs129.site)]
