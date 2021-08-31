@@ -22,7 +22,7 @@ github_username:  RyeSakurano
 # facebook_username: jekyll
 # flickr_username: jekyll
 # instagram_username: jameswgrant
-# linkedin_username: jameswgrant
+linkedin_username: 许灵筠
 # xing_username: jekyll
 # pinterest_username: jekyll
 # youtube_username: globalmtb
@@ -51,7 +51,7 @@ additional_links:
 # about_title: About Me
 # about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  I'm currently a graduate student at Key Laboratory of Machine Perception, Ministry of Education, School of EECS, Peking University.
+  I'm currently a graduate student at [Key Laboratory of Machine Perception, Ministry of Education](http://www.cis.pku.edu.cn/index.htm), [Peking University](https://pku.edu.cn).
 
   Please contact me via xlj_rk[at]pku.edu.cn or lingjunxu.rk[at]outlook.com.
 #  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
@@ -66,12 +66,13 @@ content:
       - layout: left
         title: Guangzhou Zhixin High School
         caption: 2014.09 - 2017.06
+        sub_title: Class 2 of the Yuanpei Project
         description: |
 
       - layout: left
         title: Peking University
         caption: 2017.09 - 2021.07
-        sub_title: B.S. of Data Science and Big Data Technology
+        sub_title: B.S. of Data Science and Big Data Technology, School of EECS
         # quote: >
         #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
@@ -90,8 +91,6 @@ content:
       I'm advised by [Dr. Guojie Song](https://www.gjsong-pku.cn/).
 
       My research interests include graph machine learning and social computing.
-
-
 
       <mark>Publications</mark>
 
