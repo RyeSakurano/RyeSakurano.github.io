@@ -106,9 +106,14 @@
         {% endfor %}
       </ul>
 
-      {%- if site.email -%}
+      {%- if site.email1 -%}
         <p>
-          {{ site.email_title | default: "Email" }}: <a href="mailto:{{ site.email }}" target="_blank">{{ site.email | escape }}</a>
+          {{ site.email1_title | default: "Email-1" }}: {{site.mail | escape }}
+        </p>
+      {%- endif -%}
+      {%- if site.email2 -%}
+        <p>
+          {{ site.email2_title | default: "Email-1" }}: {{site.mail | escape }}
         </p>
       {%- endif -%}
       {%- if site.phone -%}
