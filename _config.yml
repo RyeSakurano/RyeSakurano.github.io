@@ -101,7 +101,6 @@ content:
     content:
       - layout: top-middle
         title: <mark>Java</mark> XiaoXiaoLe Game 
-        link_text: Team Leader
         additional_links:
           - title:  XiaoXiaoLe Game
             icon: fab fa-github
@@ -112,9 +111,27 @@ content:
         quote: >
            An interesting single-player game!
         description: | # this will include new lines to allow paragraphs
-          - Arranged proper work division and discussions among five students in the team
+          - Arranged proper work division and discussions among five students as the team leader
           - Designed the GUI theme (results of OpenJudge submissions), which attracted CS students
           - Realized several stage properties and anti-addict system
+
+      - layout: top-middle
+        title: <mark>Python & JS</mark> Visualization of Tweets related to NeurIPS 2020 
+        additional_links:
+          - title: NeurIPS 2020 Visualization
+            icon: fab fa-github
+            url: https://github.com/kunerzzz/PKUVIS2020_lastgroup
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+           What are the researcher talking most about during a top-level ML Conference?
+        description: | # this will include new lines to allow paragraphs
+          Responsible for the *Overview of Tweets* page
+          - Visualized the relationship between the time of a piece of tweet number of retweets using a scatter diagram
+          - Analyzed the relationship between the number of tweets and the schedule of the conference
+          - Conducted case studies at important time points
+          - Performed sentiment analysis with Baidu NLP API
 
   - title: Intern Experience # Title for the section
     layout: list # Type of content section (list/text)
