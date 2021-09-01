@@ -101,6 +101,7 @@ content:
     content:
       - layout: top-middle
         title: <mark>Java</mark> XiaoXiaoLe Game (Group Project)
+        caption: 2019.05
         additional_links:
           - title:  XiaoXiaoLe Game
             icon: fab fa-github
@@ -113,7 +114,22 @@ content:
           - Realized several stage properties and an anti-addict system
 
       - layout: top-middle
+        title: <mark>Python & SQL</mark> Simple E-commercial Platform
+        caption: 2020.05
+        additional_links:
+          - title: E-commercial Platform
+            icon: fab fa-github
+            url: https://github.com/RyeSakurano/E-commercial-platform-SQL
+        quote: >
+           Commerce is always not an easy thing.
+        description: | # this will include new lines to allow paragraphs
+          - Front end: A simple GUI for custermers and vendors realized with Python
+          - Back end: Operation in the database using SQL, with multiple characteristics like view, trigger, stored procedure, transaction, etc.
+
+
+      - layout: top-middle
         title: <mark>JavaScript</mark> Visualization of Tweets related to NeurIPS 2020 (Group Project)
+        caption: 2020.12-2021.01
         additional_links:
           - title: NeurIPS 2020 Visualization
             icon: fab fa-github
@@ -126,19 +142,6 @@ content:
           - Analyzed the relavance between the number of tweets and the schedule of the conference
           - Conducted case studies at important time points
           - Performed sentiment analysis with Baidu NLP API
-
-      - layout: top-middle
-        title: <mark>Python & SQL</mark> Simple E-commercial Platform
-        additional_links:
-          - title: E-commercial Platform
-            icon: fab fa-github
-            url: https://github.com/RyeSakurano/E-commercial-platform-SQL
-        quote: >
-           Commerce is always not an easy thing.
-        description: | # this will include new lines to allow paragraphs
-          - Front end: A simple GUI for custermers and vendors realized with Python
-          - Back end: Operation in the database using SQL, with multiple characteristics like view, trigger, stored procedure, transaction, etc.
-
 
   - title: Intern Experience # Title for the section
     layout: list # Type of content section (list/text)
