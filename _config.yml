@@ -111,7 +111,7 @@ content:
         quote: >
            An interesting single-player game!
         description: | # this will include new lines to allow paragraphs
-          - Arranged proper work division and discussions among five students as the team leader
+          - Assigned tasks and organized discussions among five students as the team leader
           - Designed the GUI theme (results of OpenJudge submissions), which attracted CS students
           - Realized several stage properties and an anti-addict system
 
