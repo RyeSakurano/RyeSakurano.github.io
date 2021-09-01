@@ -66,7 +66,7 @@ content:
         title: Guangzhou Zhixin High School
         caption: 2014.09 - 2017.06
         sub_title: Class 2 of the Yuanpei Project
-        quote: >
+        description: |
           It was a glorious time when I fought and harvested with my lovely comrades.
       - layout: left
         title: Peking University
@@ -75,8 +75,6 @@ content:
         # quote: >
         #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
-          GPA: 3.67/4.00
-
           Selected Courseworks:
           - **Data structure and algorithms:** Data Structure and Algorithm (A), Algorithm Design and Analysis, Introduction to Database Systems(Honor Track)
           - **System:** Introduction to Computer Systems, Operating Systems (A), Introduction to Computer Networks
