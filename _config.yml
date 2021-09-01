@@ -100,38 +100,45 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: <mark>Java</mark> XiaoXiaoLe Game 
+        title: <mark>Java</mark> XiaoXiaoLe Game (Group Project)
         additional_links:
           - title:  XiaoXiaoLe Game
             icon: fab fa-github
             url: https://github.com/RyeSakurano/XiaoXiaoLeGame
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
            An interesting single-player game!
         description: | # this will include new lines to allow paragraphs
           - Arranged proper work division and discussions among five students as the team leader
           - Designed the GUI theme (results of OpenJudge submissions), which attracted CS students
-          - Realized several stage properties and anti-addict system
+          - Realized several stage properties and an anti-addict system
 
       - layout: top-middle
-        title: <mark>Python & JS</mark> Visualization of Tweets related to NeurIPS 2020 
+        title: <mark>JavaScript</mark> Visualization of Tweets related to NeurIPS 2020 (Group Project)
         additional_links:
           - title: NeurIPS 2020 Visualization
             icon: fab fa-github
             url: https://github.com/kunerzzz/PKUVIS2020_lastgroup
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
            What are the researcher talking most about during a top-level ML Conference?
         description: | # this will include new lines to allow paragraphs
           Responsible for the *Overview of Tweets* page
           - Visualized the relationship between the time of a piece of tweet number of retweets using a scatter diagram
-          - Analyzed the relationship between the number of tweets and the schedule of the conference
+          - Analyzed the relavance between the number of tweets and the schedule of the conference
           - Conducted case studies at important time points
           - Performed sentiment analysis with Baidu NLP API
+
+      - layout: top-middle
+        title: <mark>Python & SQL</mark> Simple E-commercial Platform
+        additional_links:
+          - title: E-commercial Platform
+            icon: fab fa-github
+            url: https://github.com/RyeSakurano/E-commercial-platform-SQL
+        quote: >
+           Commerce is always not an easy thing.
+        description: | # this will include new lines to allow paragraphs
+          - Front end: A simple GUI for custermers and vendors realized with Python
+          - Back end: Operation in the database using SQL, with multiple characteristics like view, trigger, stored procedure, transaction, etc.
+
 
   - title: Intern Experience # Title for the section
     layout: list # Type of content section (list/text)
