@@ -1,6 +1,6 @@
 # Site
 repository: ryesakurano/ryesakurano.github.io
-favicon: fas fa-cat
+favicon: images/cat.ico
 
 # Content configuration version
 version: 2
@@ -9,7 +9,7 @@ version: 2
 name: Lingjun Xu (许灵筠)
 # title: 
 email: xlj_rk[at]pku.edu.cn,
-        lingjunxu.rk[at]outlook.com
+       lingjunxu.rk[at]outlook.com
 # website: www.github.com/RyeSakurano
 
 # Dark Mode (true/false/never)
