@@ -91,7 +91,7 @@ content:
 
       My research interests include graph machine learning and social computing.
 
-      <font size=10><mark>Publications</mark></font>
+      <font size=1><mark>Publications</mark></font>
 
       - Guojie Song, Yizhou Zhang, **Lingjun Xu** and Haibing Lu. Domain Adaptive Network Embedding. IEEE Transactions on Big Data, 2020. [[link](https://ieeexplore.ieee.org/document/9241052)]
       - Qingqing Long, **Lingjun Xu**(Equal Contribution), Zheng Fang, and Guojie Song. HGK-GNN: Heterogeneous Graph Kernel based Graph Neural Networks. KDD, 2021. [[link](https://doi.org/10.1145/3447548.3467429)]
