@@ -99,36 +99,39 @@ content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      # - layout: top-middle
-      #   title: Super awesome project
-      #   link: github.com/sproogen
-      #   # link_text: Project Website
-      #   additional_links:
-      #     - title:  sproogen/modern-resume-theme
-      #       icon: fab fa-github
-      #       url: github.com/sproogen/modern-resume-theme
-      #     # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-      #     #   icon: fab fa-github
-      #     #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-      #   quote: >
-      #     This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-      #   description: | # this will include new lines to allow paragraphs
-      #     I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+      - layout: top-middle
+        title: XiaoXiaoLe Game <mark>Java</mark>
+        sub-title: Team Leader
+        link: https://github.com/RyeSakurano/XiaoXiaoLeGame
+        # link_text: Project Website
+        # additional_links:
+        #   - title:  sproogen/modern-resume-theme
+        #     icon: fab fa-github
+        #     url: github.com/sproogen/modern-resume-theme
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+           An interesting single-player game!
+        description: | # this will include new lines to allow paragraphs
+          - Arranged proper work division and discussions among five students in the team
+          - Designed the GUI theme (results of OpenJudge submissions), which attracted CS students
+          - Realized several stage properties and anti-addict system
 
   - title: Intern Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Tencent Map, Beijing
-      #   link: boringcompany.com
-      #   # link_text: boringcompany.com
+        title: Tencent LBS, Beijing
+        link: https://lbs.qq.com/
+        link_text: Tencent LBS
         sub_title: Android Software Development Engineer Intern
         caption: 2020.07 - 2020.10
       #   quote: >
       #     Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-              - Built a [demo](https://github.com/RyeSakurano/MapDemo_Android) using [Tencent Map Android SDK](https://lbs.qq.com/mobile/androidMapSDK/developerGuide/androidSummary), with functions of basic map, AOI layers, keyword searching and hints, driving path planning, snapshoot, etc..
-              - Acquired knowledge about the basic framework and realization of Android map SDK
+              - Built a [demo](https://github.com/RyeSakurano/MapDemo_Android) using [Tencent Map Android SDK](https://lbs.qq.com/mobile/androidMapSDK/developerGuide/androidSummary), with functions of basic map, AOI layers, keyword searching and hints, driving path planning, snapshoot, etc.
+              - Acquired knowledge of the basic framework and realization of Android map SDK
 
   - title: Skills
     layout: list
@@ -137,7 +140,7 @@ content:
         description: |
           - **Proficient:** Python(PyTorch), C/C++
           - **Intermediate:** Java
-          - **Basic:** HTML, CSS, Javascript, Android
+          - **Basic:** HTML, CSS, JavaScript, Android
       - title: Languages
         description: |
           - **Native:** Cantonese & Mandarin
