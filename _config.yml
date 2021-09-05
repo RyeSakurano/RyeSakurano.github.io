@@ -193,6 +193,13 @@ content:
           - **Favorite Tennis Players:** Roger Federer & Denis Shapovalov
           - **Favorite Manga:** Detective Conan
 
+  # - title: Read More...
+  #   layout: text
+  #   content: |
+  #     - [Notes for Leetcode & OJs]()
+  #     - [Notes for Machine Learning]()
+  #     - [Notes for git, linux, ...]()
+
 # Footer
 footer_show_references: false
 # references_title: References on request (Override references text)
