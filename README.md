@@ -1,2 +1,1 @@
-# ryesakurano.github.io
-CV for my own
+My personal cite (CV page)
