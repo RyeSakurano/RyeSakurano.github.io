@@ -66,8 +66,10 @@ content:
         title: Guangzhou Zhixin High School
         caption: 2014.09 - 2017.06
         sub_title: Class 2 of the Yuanpei Project
+        quote: >
+          It was a glorious time when I fought and harvested together with my lovely comrades.
         description: |
-          It was a glorious time when I fought and harvested with my lovely comrades.
+
       - layout: left
         title: Peking University
         caption: 2017.09 - 2021.07
@@ -111,9 +113,9 @@ content:
         quote: >
            An interesting single-player game!
         description: | # this will include new lines to allow paragraphs
-          - Assigned tasks and organized discussions among five students as the team leader
-          - Designed the GUI theme (results of OpenJudge submissions), which attracted CS students
-          - Realized several stage properties and an anti-addict system
+          - Assigned tasks and organized discussions among five students as the **team leader**
+          - Designed the GUI theme (results of OpenJudge submissions) to attract CS students
+          - Implemented several stage properties and an anti-addict system
 
       - layout: top-middle
         title: <mark>Python & SQL</mark> Simple E-commercial Platform
@@ -125,7 +127,7 @@ content:
         quote: >
            Commerce is always not an easy thing.
         description: | # this will include new lines to allow paragraphs
-          - Front end: A simple GUI for custermers and vendors realized with Python
+          - Front end: A simple GUI for customers and vendors implemented by Python
           - Back end: Operation in the database using SQL, with multiple characteristics like view, trigger, stored procedure, transaction, etc.
 
 
@@ -142,7 +144,7 @@ content:
           Responsible for the *Overview of Tweets* page
           - Visualized the relationship between the sending time of a piece of tweet and the number of retweets using a scatter diagram
           - Analyzed the relavance between the number of tweets and the schedule of the conference
-          - Conducted case studies at important time points
+          - Conducted case studies at critical moments during the conference
           - Performed sentiment analysis with Baidu NLP API
 
   - title: Intern Experience # Title for the section
@@ -158,7 +160,7 @@ content:
       #     Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
               - Built a [demo](https://github.com/RyeSakurano/MapDemo_Android) using [Tencent Map Android SDK](https://lbs.qq.com/mobile/androidMapSDK/developerGuide/androidSummary), with functions of basic map, AOI layers, keyword searching and hints, driving path planning, snapshoot, etc.
-              - Acquired knowledge of the basic framework and realization of Android map SDK
+              - Acquired knowledge of the basic framework and implementation of Android map SDK
 
   - title: Skills
     layout: list
