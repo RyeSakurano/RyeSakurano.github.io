@@ -196,9 +196,10 @@ content:
   # - title: Read More...
   #   layout: text
   #   content: |
-  #     - [Notes for Leetcode & OJs]()
+  #     - [Notes for Data Structures & Algorithms]()
   #     - [Notes for Machine Learning]()
-  #     - [Notes for git, linux, ...]()
+  #     - [Notes for interviews]()
+  #     - [Notes for computer operations]()
 
 # Footer
 footer_show_references: false
