@@ -181,15 +181,15 @@ content:
     content: # this will include new lines to allow paragraphs
       - title: Assumed Names
         description: |
-          Reikun, Ayako(綾子), Sherria, Irena
+          Reikun, Ayako(綾子), Sherria
       - title: Hobbies
         description: |
           - **Music:** Piano & Vocal music [see [PKUEECS129](https://eecs129.site/members/active/xulingjun/)]
           - **Sports:** Swimming & Tennis
           - **Writing Stories** [see Scarlet Rook(绯色的乌鸦) [blog](https://ScarletRook.github.io)]
           - **Studying Languages**
-          - **History & Geography**
-          - **Favorite Artists:** Shen Zhou, Yunlong Zheng, Ayanga, Mai Kuraki
+          - **History, Geography, Psychology & Socialogy**
+          - **Favorite Singers (Musical Actors):** Zhou Shen, Zheng Yunlong, Ayanga, Mai Kuraki
           - **Favorite Tennis Players:** Roger Federer & Denis Shapovalov
           - **Favorite Manga:** Detective Conan
 
