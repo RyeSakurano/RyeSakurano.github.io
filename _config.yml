@@ -76,18 +76,19 @@ content:
         title: Peking University
         caption: 2017.09 - 2021.07
         sub_title: B.S. of Data Science and Big Data Technology, School of EECS
-        # quote: >
-        #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        quote: >
+          Surgeless, stricken, gloomy, and finally settled.
         description: | # this will include new lines to allow paragraphs
           Selected Courseworks:
           - **Data structure and algorithms:** Data Structure and Algorithm (A), Algorithm Design and Analysis, Introduction to Database Systems (Honor Track)
           - **System:** Introduction to Computer Systems, Operating Systems (A), Introduction to Computer Networks
           - **Maths and machine learning:** Mathematical Foundations for the Information Age, Web Data Mining, Numerical Methods (B), Introduction to Stochastic Processes, Introduction to Visualization and Visual Computing, Machine Learning for Predictive Data Analytics
           - **Something else I found interesting:** The Enjoyment of Music, Introduction to Psychology, Chinese SanShou, Intermediate Microeconomics, Game Theory, Singing and Performance in Art Songs
+      
       # - layout: left
       #   title: Peking University
       #   caption: 2021.09 - now
-      #   sub_title: M.S. of Computer Science and Technology
+      #   sub_title: M.S. of Intelligence Science and Technology, School of AI
       #   description: |
 
   - title: Research
@@ -100,7 +101,7 @@ content:
       <font size=4><mark>Publications</mark></font>
 
       - Guojie Song, Yizhou Zhang, **Lingjun Xu** and Haibing Lu. Domain Adaptive Network Embedding. IEEE Transactions on Big Data, 2020. [[link](https://ieeexplore.ieee.org/document/9241052)]
-      - Qingqing Long, **Lingjun Xu**(Equal Contribution), Zheng Fang, and Guojie Song. HGK-GNN: Heterogeneous Graph Kernel based Graph Neural Networks. KDD, 2021. [[link](https://doi.org/10.1145/3447548.3467429)]
+      - Qingqing Long, **Lingjun Xu** (Equal Contribution), Zheng Fang, and Guojie Song. HGK-GNN: Heterogeneous Graph Kernel based Graph Neural Networks. KDD, 2021. [[link](https://doi.org/10.1145/3447548.3467429)]
 
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
