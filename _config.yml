@@ -154,15 +154,15 @@ content:
 
       - layout: top-middle
         title: <mark>Android</mark> Demo of Tencent Map Android SDK
-        subtitle: Work done during the internship at [Tencent LBS, Beijing](https://lbs.qq.com/)
-        caption: 2020.07
+        caption: 2020.07-2020.08
         additional_links:
           - title: MapDemo
             icon: fab fa-github
             url: https://github.com/RyeSakurano/MapDemo_Android
         quote: >
-           I love moving demo!
+           I love building demos!
         description: | # this will include new lines to allow paragraphs
+          - Work done during the internship at [Tencent LBS, Beijing](https://lbs.qq.com/)
           - With the use of [Tencent Map Android SDK](https://lbs.qq.com/mobile/androidMapSDK/developerGuide/androidSummary)
           - Functions: basic map, AOI layers, keyword searching and hints, driving path planning, snapshoot, etc
 
