@@ -105,7 +105,7 @@ content:
       - Zheng Fang, **Lingjun Xu** (Equal Contribution), Guojie Song, Qingqing Long and Yingxue Zhang. Polarized Graph Neural Networks. WWW, 2022. [[link](https://dl.acm.org/doi/10.1145/3485447.3512187)]
       - **Lingjun Xu**, Shiyin Zhang, Guojie Song, Junshan Wang, Tianshu Wu, Guojun Liu. Taxonomy-Enhanced Graph Neural Networks. CIKM, 2022. [[link](https://dl.acm.org/doi/10.1145/3511808.3557467)]
   
-  - title: Projects # Title for the section
+  - title: Software Development Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
@@ -152,20 +152,20 @@ content:
           - Conducted case studies at critical moments during the conference
           - Performed sentiment analysis with Baidu NLP API
 
-  - title: Intern Experience # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: Tencent LBS, Beijing
-        link: https://lbs.qq.com/
-        link_text: Tencent LBS
-        sub_title: Android Software Development Engineer Intern
-        caption: 2020.07 - 2020.10
-      #   quote: >
-      #     Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+      - layout: top-middle
+        title: <mark>Android</mark> Demo of Tencent Map Android SDK
+        subtitle: Work done during the internship at [Tencent LBS, Beijing](https://lbs.qq.com/)
+        caption: 2020.07
+        additional_links:
+          - title: MapDemo
+            icon: fab fa-github
+            url: https://github.com/RyeSakurano/MapDemo_Android
+        quote: >
+           I love moving demo!
         description: | # this will include new lines to allow paragraphs
-              - Built a [demo](https://github.com/RyeSakurano/MapDemo_Android) using [Tencent Map Android SDK](https://lbs.qq.com/mobile/androidMapSDK/developerGuide/androidSummary), with functions of basic map, AOI layers, keyword searching and hints, driving path planning, snapshoot, etc.
-              - Acquired knowledge of the basic framework and implementation of Android map SDK
+          - With the use of [Tencent Map Android SDK](https://lbs.qq.com/mobile/androidMapSDK/developerGuide/androidSummary)
+          - Functions: basic map, AOI layers, keyword searching and hints, driving path planning, snapshoot, etc
+
 
   - title: Skills
     layout: list
@@ -174,7 +174,7 @@ content:
         description: |
           - **Proficient:** Python(PyTorch), C/C++
           - **Intermediate:** Java
-          - **Basic:** HTML, CSS, JavaScript, Android
+          - **Basic:** HTML, CSS, JavaScript, Android, Go
       - title: Languages
         description: |
           - **Native:** Cantonese & Mandarin
