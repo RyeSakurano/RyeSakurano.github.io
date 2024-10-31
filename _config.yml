@@ -46,7 +46,7 @@ linkedin_username: 灵筠-许-99a2891a2
 # about_title: About Me
 # about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  I'm currently an algorithm engineer at [Tencent Music Entertainment Group (TME)](https://www.tencentmusic.com), exploring music recommendation algorithm in QQMusic APP. My research interests include Graph Neural Networks and AI+HSS (Humanities and Social Sciences).
+  I'm currently an algorithm engineer at [Tencent Music Entertainment Group (TME)](https://www.tencentmusic.com), exploring music recommendation algorithm of QQMusic. My research interests include Graph Neural Networks and AI+HSS (Humanities and Social Sciences).
 #  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
 
 
@@ -70,11 +70,10 @@ content:
         title: Peking University
         caption: 2017.09 - 2021.07
         sub_title: B.S. of Data Science and Big Data Technology, EECS
+        link: eecs.pku.edu.cn
         quote: >
           Surgeless, stricken, gloomy, and finally settled.
         description: | # this will include new lines to allow paragraphs
-          link: [Peking University](https://www.pku.edu.cn/), [School of Electronics Engineering and Computer Science](https://eecs.pku.edu.cn/)
-
           Selected Courseworks:
           - **Data structure and algorithms:** Data Structure and Algorithm (A), Algorithm Design and Analysis, Introduction to Database Systems (Honor Track)
           - **System:** Introduction to Computer Systems, Operating Systems (A), Introduction to Computer Networks
@@ -85,20 +84,18 @@ content:
         title: Peking University
         caption: 2021.09 - 2024.07
         sub_title: M.S. of Intelligence Science and Technology, SIST
+        link: sist.pku.edu.cn
         quote: >
           I lost. I got?!
         description: |
-          link: [Peking University](https://www.pku.edu.cn/), [School of Intelligence Science Technology](https://sist.pku.edu.cn/)
           - Advised by [Prof. Guojie Song](https://sist.pku.edu.cn/info/1362/2256.htm)
           - Dedicated to the area of graph machine learning and mainly focusing on domain knowledge enhanced Graph Neural Networks
           - Active participant in student affairs; the 1st Minister of the Career Development Department of the Graduate Student Union, SIST
 
 
-  - title: Published Papers
+  - title: Publications
     layout: text
     content: |
-      <font size=4><mark>Publications</mark></font>
-
       - Guojie Song, Yizhou Zhang, **Lingjun Xu** and Haibing Lu. Domain Adaptive Network Embedding. IEEE Transactions on Big Data, 2020. [[link](https://ieeexplore.ieee.org/document/9241052)]
       - Qingqing Long, **Lingjun Xu** (Equal Contribution), Zheng Fang, and Guojie Song. HGK-GNN: Heterogeneous Graph Kernel based Graph Neural Networks. KDD, 2021. [[link](https://doi.org/10.1145/3447548.3467429)]
       - Zheng Fang, **Lingjun Xu** (Equal Contribution), Guojie Song, Qingqing Long and Yingxue Zhang. Polarized Graph Neural Networks. WWW, 2022. [[link](https://dl.acm.org/doi/10.1145/3485447.3512187)][[code](https://github.com/RyeSakurano/Polar-GNN)]
