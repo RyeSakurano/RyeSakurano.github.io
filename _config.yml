@@ -67,12 +67,14 @@ content:
           - Member of Video Group, Zhixin TV Station
 
       - layout: left
-        title: [Peking University](https://pku.edu.cn)
+        title: Peking University
         caption: 2017.09 - 2021.07
-        sub_title: B.S. of Data Science and Big Data Technology, School of EECS
+        sub_title: B.S. of Data Science and Big Data Technology, EECS
         quote: >
           Surgeless, stricken, gloomy, and finally settled.
         description: | # this will include new lines to allow paragraphs
+          link: [Peking University](https://www.pku.edu.cn/), [School of Electronics Engineering and Computer Science](https://eecs.pku.edu.cn/)
+
           Selected Courseworks:
           - **Data structure and algorithms:** Data Structure and Algorithm (A), Algorithm Design and Analysis, Introduction to Database Systems (Honor Track)
           - **System:** Introduction to Computer Systems, Operating Systems (A), Introduction to Computer Networks
@@ -80,13 +82,16 @@ content:
           - **Something else I found interesting:** The Enjoyment of Music, Introduction to Psychology, Chinese SanShou, Intermediate Microeconomics, Game Theory, Singing and Performance in Art Songs
       
       - layout: left
-        title: [Peking University](https://pku.edu.cn)
+        title: Peking University
         caption: 2021.09 - 2024.07
-        sub_title: M.S. of Intelligence Science and Technology, [SIST](https://sist.pku.edu.cn/)
+        sub_title: M.S. of Intelligence Science and Technology, SIST
         quote: >
           I lost. I got?!
         description: |
-          I was advised by [Prof. Guojie Song](https://sist.pku.edu.cn/info/1362/2256.htm). I was dedicated to the area of graph machine learning and my work mainly focused on domain knowledge enhanced Graph Neural Networks.
+          link: [Peking University](https://www.pku.edu.cn/), [School of Intelligence Science Technology](https://sist.pku.edu.cn/)
+          - Advised by [Prof. Guojie Song](https://sist.pku.edu.cn/info/1362/2256.htm)
+          - Dedicated to the area of graph machine learning and mainly focusing on domain knowledge enhanced Graph Neural Networks
+          - Active participant in student affairs; the 1st Minister of the Career Development Department of the Graduate Student Union, SIST
 
 
   - title: Published Papers
