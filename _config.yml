@@ -31,13 +31,7 @@ linkedin_username: 灵筠-许-99a2891a2
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
-additional_links:
-- title: Scarlet Rook (blog)
-  icon: fas fa-book-open
-  url: https://ScarletRook.github.io
-- title: PKU EECS 129
-  icon: fas fa-music
-  url: https://eecs129.site/members/active/xulingjun/
+# additional_links:
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -52,7 +46,7 @@ additional_links:
 # about_title: About Me
 # about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  I'm currently a graduate student at [School of Intelligence Science and Technology](https://sai.pku.edu.cn/), [Peking University](https://pku.edu.cn).
+  I'm currently an algorithm engineer at [Tencent Music Entertainment Group (TME)](https://www.tencentmusic.com), exploring music recommendation algorithm in QQMusic APP. My research interests include Graph Neural Networks and AI+HSS (Humanities and Social Sciences).
 #  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
 
 
@@ -73,7 +67,7 @@ content:
           - Member of Video Group, Zhixin TV Station
 
       - layout: left
-        title: Peking University
+        title: [Peking University](https://pku.edu.cn)
         caption: 2017.09 - 2021.07
         sub_title: B.S. of Data Science and Big Data Technology, School of EECS
         quote: >
@@ -85,25 +79,26 @@ content:
           - **Maths and machine learning:** Mathematical Foundations for the Information Age, Web Data Mining, Numerical Methods (B), Introduction to Stochastic Processes, Introduction to Visualization and Visual Computing, Machine Learning for Predictive Data Analytics
           - **Something else I found interesting:** The Enjoyment of Music, Introduction to Psychology, Chinese SanShou, Intermediate Microeconomics, Game Theory, Singing and Performance in Art Songs
       
-      # - layout: left
-      #   title: Peking University
-      #   caption: 2021.09 - now
-      #   sub_title: M.S. of Intelligence Science and Technology, School of AI
-      #   description: |
+      - layout: left
+        title: [Peking University](https://pku.edu.cn)
+        caption: 2021.09 - 2024.07
+        sub_title: M.S. of Intelligence Science and Technology, [SIST](https://sist.pku.edu.cn/)
+        quote: >
+          I lost. I got?!
+        description: |
+          I was advised by [Prof. Guojie Song](https://sist.pku.edu.cn/info/1362/2256.htm). I was dedicated to the area of graph machine learning and my work mainly focused on domain knowledge enhanced Graph Neural Networks.
 
-  - title: Research
+
+  - title: Published Papers
     layout: text
     content: |
-      I'm advised by [Dr. Guojie Song](https://www.gjsong-pku.cn/).
-
-      My research interests include graph machine learning and social computing.
-
       <font size=4><mark>Publications</mark></font>
 
       - Guojie Song, Yizhou Zhang, **Lingjun Xu** and Haibing Lu. Domain Adaptive Network Embedding. IEEE Transactions on Big Data, 2020. [[link](https://ieeexplore.ieee.org/document/9241052)]
       - Qingqing Long, **Lingjun Xu** (Equal Contribution), Zheng Fang, and Guojie Song. HGK-GNN: Heterogeneous Graph Kernel based Graph Neural Networks. KDD, 2021. [[link](https://doi.org/10.1145/3447548.3467429)]
-      - Zheng Fang, **Lingjun Xu** (Equal Contribution), Guojie Song, Qingqing Long and Yingxue Zhang. Polarized Graph Neural Networks. WWW, 2022. [[link](https://dl.acm.org/doi/10.1145/3485447.3512187)]
-      - **Lingjun Xu**, Shiyin Zhang, Guojie Song, Junshan Wang, Tianshu Wu, Guojun Liu. Taxonomy-Enhanced Graph Neural Networks. CIKM, 2022. [[link](https://dl.acm.org/doi/10.1145/3511808.3557467)]
+      - Zheng Fang, **Lingjun Xu** (Equal Contribution), Guojie Song, Qingqing Long and Yingxue Zhang. Polarized Graph Neural Networks. WWW, 2022. [[link](https://dl.acm.org/doi/10.1145/3485447.3512187)][[code](https://github.com/RyeSakurano/Polar-GNN)]
+      - **Lingjun Xu**, Shiyin Zhang, Guojie Song, Junshan Wang, Tianshu Wu, Guojun Liu. Taxonomy-Enhanced Graph Neural Networks. CIKM, 2022. [[link](https://dl.acm.org/doi/10.1145/3511808.3557467)][[code](https://github.com/RyeSakurano/Taxo-GNN)]
+      - **Lingjun Xu**, Haowen Li, Guojie Song, Liang Wang and Bo Zheng. Laner-GNN: Adapting to Long-Tail Degree Distribution with Latent Neighborhood Restorers. ECAI, 2024. [[link](https://ebooks.iospress.nl/doi/10.3233/FAIA240820)]
   
   - title: Software Development Projects # Title for the section
     layout: list # Type of content section (list/text)
@@ -172,9 +167,9 @@ content:
     content:
       - title: Programming
         description: |
-          - **Proficient:** Python(PyTorch), C/C++
-          - **Intermediate:** Java
-          - **Basic:** HTML, CSS, JavaScript, Android, Go
+          - **Proficient:** Python(PyTorch/Tensorflow), C/C++
+          - **Intermediate:** Java, SQL
+          - **Basic:** HTML, CSS, JavaScript, Android, Go, Scala
       - title: Languages
         description: |
           - **Native:** Cantonese & Mandarin
@@ -189,12 +184,12 @@ content:
           Reikun, Ayako(綾子), Sherria
       - title: Hobbies
         description: |
-          - **Music:** Piano, Vocal music, and Clarinet [see [PKUEECS129](https://eecs129.site/members/active/xulingjun/)]
+          - **Music:** Piano, Vocal music, and Clarinet
           - **Sports:** Swimming & Tennis
-          - **Writing Stories** [see Scarlet Rook(绯色的乌鸦) [blog](https://ScarletRook.github.io)]
+          - **Writing Stories**
           - **Studying Languages**
           - **Subjects:** History, Geography, Psychology, and Sociology
-          - **Favorite Singers/Musical Actors:** Zhou Shen, Ayanga, Zheng Yunlong, and Mai Kuraki
+          - **Favorite Singers/Musical Actors:** Zhou Shen, Ayanga, Zheng Yunlong
           - **Favorite Tennis Players:** Roger Federer & Denis Shapovalov
           - **Favorite Manga:** Detective Conan
 
