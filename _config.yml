@@ -183,7 +183,7 @@ content:
     content: # this will include new lines to allow paragraphs
       - title: Assumed Names
         description: |
-          Reikun, Ayako(綾子), Sherria
+          Reikun(RK), Ayako(綾子), Sherria
       - title: Hobbies
         description: |
           - **Music:** Piano, Vocal music, and Clarinet
@@ -191,7 +191,7 @@ content:
           - **Writing Stories**
           - **Studying Languages**
           - **Subjects:** History, Geography, Psychology, and Sociology
-          - **Favorite Singers/Musical Actors:** Zhou Shen, Ayanga, Zheng Yunlong
+          - **Favorite Singers/Musical Actors:** Zhou Shen, Ayanga, and Zheng Yunlong
           - **Favorite Tennis Players:** Roger Federer & Denis Shapovalov
           - **Favorite Manga:** Detective Conan
 
